@@ -1,4 +1,4 @@
-﻿</div>
+</div>
 
 <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
 <script src="http://code.jquery.com/jquery.min.js"></script>

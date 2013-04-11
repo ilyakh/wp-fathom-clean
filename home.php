@@ -1,4 +1,4 @@
-﻿<?php get_header(); ?>
+<?php get_header(); ?>
 
 <?php global $more; $more = 1; ?>
 
@@ -12,7 +12,7 @@
 			<h1><?php the_title(); ?></h1>
 			<p><?php the_content(); ?></p>
 		</div>
-		<div class="span6">
+		<div class="span6 pull-right">
 			<?php the_post_thumbnail('large'); ?>
 		</div>
 	</div>
